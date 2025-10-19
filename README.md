@@ -5,6 +5,7 @@
 This is a personal portfolio website developed for the GMT 458 Web GIS course, created to showcase my projects, skills, and background in Geomatics Engineering. Live Demo Link: https://github.com/melisaburgu/GMT-458---Personal-Portfolio-Website.git
 
 
+
 ✨ Features
 
 •Responsive Design: Fully compatible with both desktop and mobile devices.
@@ -16,6 +17,7 @@ This is a personal portfolio website developed for the GMT 458 Web GIS course, c
 •Easy Contact: A contact section that allows for direct emailing.
 
 •Modern Design: A clean and pastel color palette for a professional and aesthetic look.
+
 
 
 🛠️ Technologies Used
@@ -35,6 +37,7 @@ This is a personal portfolio website developed for the GMT 458 Web GIS course, c
 •Git & GitHub
 
 
+
 🤖 Artificial Intelligence (AI) Usage Notice AI assistance was specifically used to create the 3D torus background animations in the "About Me" section of this project.
 
 •Learned Topic: With the help of AI, I learned how to create and integrate interactive 3D graphics into a web page using a library like Three.js.
@@ -42,6 +45,7 @@ This is a personal portfolio website developed for the GMT 458 Web GIS course, c
 •Estimated Usage Time: The total time spent using AI for this task was approximately 45 minutes.
 
 •All other parts of the website, including content, design, and coding, were completed independently by me.
+
 
 
 🚀 How to View To view the portfolio on your local machine:
