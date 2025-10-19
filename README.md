@@ -2,7 +2,7 @@
 
 
 
-This is a personal portfolio website developed for the GMT 458 Web GIS course, created to showcase my projects, skills, and background in Geomatics Engineering. Live Demo Link: https://github.com/melisaburgu/GMT-458---Personal-Portfolio-Website.git
+This is a personal portfolio website developed for the GMT 458 Web GIS course, created to showcase my projects, skills, and background in Geomatics Engineering. Live Demo Link: https://github.com/GMT-458-Web-GIS/personal-web-page-melisaburgu.git
 
 
 
@@ -52,6 +52,6 @@ All other parts of the website, including content, design, and coding, were comp
 
 🚀 How to View To view the portfolio on your local machine:
 
-  •Clone this repository: git clone https://github.com/melisaburgu/GMT-458---Personal-Portfolio-Website.git
+  •Clone this repository: git clone https://github.com/GMT-458-Web-GIS/personal-web-page-melisaburgu.git
 
   •Navigate to the project folder and open the melisa.html file in a web browser.
