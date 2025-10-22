@@ -2,7 +2,7 @@
 
 
 
-This is a personal portfolio website developed for the GMT 458 Web GIS course, created to showcase my projects, skills, and background in Geomatics Engineering. Live Demo Link: https://github.com/GMT-458-Web-GIS/personal-web-page-melisaburgu.git
+This is a personal portfolio website developed for the GMT 458 Web GIS course, created to showcase my projects, skills, and background in Geomatics Engineering. Live Demo Link: https://melisaburgu.netlify.app/
 
 
 
